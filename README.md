@@ -1,2 +1,2 @@
 # Meteor-js
-This is a web page developed with Meteor for an online signature
+This is a web page developed with Meteor js Framework
